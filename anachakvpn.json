@@ -1,0 +1,25 @@
+{
+
+
+//แก้เวอร์ชันให้สูงขึ้น
+"Version":"1.1",
+
+//ลิ้งโหลดไฟล์ .zip
+"Link":"https://github.com/vpnsummer/saasadd/raw/master/anackvpn.zip",
+
+
+
+//ใส่ข้อความอะไรก็ได้
+"Message":"แจ้งการอัพเดทไฟล์ 
+TRUE & DTAC",
+
+
+
+
+//ข้างล่างนี้ไม่ต้องแก้
+ "releaseNotes": [
+ "-Demo"
+  ]
+
+
+}
